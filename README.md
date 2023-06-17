@@ -18,9 +18,9 @@ Are you tired of the same old takeout options? CraveExpress is here to change th
 
 Whether you're craving a juicy burger, authentic Italian pasta, or spicy Asian delicacies, CraveExpress has got you covered. With our seamless ordering process and lightning-fast delivery, you can enjoy a restaurant-quality meal in the comfort of your own space. Embrace the delicious possibilities with CraveExpress and let your cravings take flight!
 
-<div style="display:flex; justify-content:center;">
-  <img src="./imgs/AppDemo.gif" alt="Image" width="600" style="object-fit:cover;">
-</div>
+<p align="center">
+  <img src="./imgs/AppDemo.gif" alt="Image" width="600" style="object-fit: cover;">
+</p>
 
 🌟 Wide Variety: Explore a diverse range of culinary options from our extensive network of partner restaurants. From 🍔 burgers to 🍣 sushi and everything in between, we have something to satisfy every craving.
 
@@ -28,10 +28,10 @@ Whether you're craving a juicy burger, authentic Italian pasta, or spicy Asian d
 
 🌍 Global Flavors: Embark on a culinary adventure with our selection of international cuisines. Discover the rich and authentic tastes of 🌮 Mexico, 🍝 Italy, 🍣 Japan, and more, all conveniently available through CraveExpress.
 
-<div style="display:flex; justify-content:center;">
-  <img src="./imgs/1.JPG" alt="Image 1" width="400" style="margin-right: 10px;">
-  <img src="./imgs/2.JPG" alt="Image 2" width="400">
-</div>
+<p align="center">
+  <img src="./imgs/1.JPG" alt="Image 1" width="380" style="margin-right: 10px;">
+  <img src="./imgs/2.JPG" alt="Image 2" width="380" height="731.5">
+</p>
 
 🔍 Easy Ordering: Our user-friendly platform makes ordering a breeze. With just a few clicks, you can browse menus, customize your meal, and place your order hassle-free.
 
@@ -41,10 +41,10 @@ Whether you're craving a juicy burger, authentic Italian pasta, or spicy Asian d
 
 😊 Customer Satisfaction: Your satisfaction is our top priority. We go the extra mile to ensure that every aspect of your CraveExpress experience exceeds your expectations, leaving you with a smile on your face.
 
-<div style="display:flex; justify-content:center;">
-  <img src="./imgs/3.JPG" alt="Image 1" width="400" style="margin-right: 10px;">
-  <img src="./imgs/4.JPG" alt="Image 2" width="400">
-</div>
+<p align="center">
+  <img src="./imgs/3.JPG" alt="Image 1" width="380" style="margin-right: 10px;">
+  <img src="./imgs/4.JPG" alt="Image 2" width="380" height="722.5">
+</p>
 
 ## Downloading the app
 
@@ -56,8 +56,8 @@ To install the application to your own system:
 
 - `npm install` -> `npm run build` -> `npm start`
 
-<div style="display:flex; justify-content:center;">
+<!-- <div style="display:flex; justify-content:center;">
   <img src="./imgs/B1.JPG" alt="Image 1" width="400" style="margin-right: 10px;">
   <img src="./imgs/B2.JPG" alt="Image 1" width="400" style="margin-right: 10px;">
   <img src="./imgs/B3.JPG" alt="Image 1" width="400" >
-</div>
+</div> -->
